@@ -1,6 +1,8 @@
 # Hackathon - Credit Card Fraud Detection
 
 Data 
+Training Dataset: https://drive.google.com/file/d/1Lxl3bELYz3oWz7p6DPb3KcgtHvBDaEvU/view?usp=sharing
+Testing Dataset: https://drive.google.com/file/d/1o4QDnv49vLGovTkfZLggeL35ahoI45DV/view?usp=sharing
 
 We provide you with a data set in CSV format. 
 The data set contains 2 lakhh+ record train instances and 56 thousand test instance
