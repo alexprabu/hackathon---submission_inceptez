@@ -1,4 +1,4 @@
-# Hackathon Submission
+# Hackathon Submissions
 
 Problems:
 1. Credit Score Prediction
